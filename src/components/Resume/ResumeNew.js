@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/Soumyajit_Behera.pdf";
+import pdf from "../../Assets/Inusha_Lakshan_CV.pdf";
 import { AiOutlineDownload, AiOutlineMail, AiOutlinePhone } from "react-icons/ai";
 import { FaUserTie } from "react-icons/fa";
 import { Document, Page, pdfjs } from "react-pdf";
