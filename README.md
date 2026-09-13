@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img alt="Inusha Lakshan Portfolio Demo" src="./Images/readme-img1.png" width="800" />
+  <img alt="Inusha Lakshan Portfolio Demo" src="./Images/IMG_01.png" width="800" />
 </div>
 
 <br/>
