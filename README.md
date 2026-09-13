@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Aspiring Data Analyst | B.Sc. in Business Information Systems (USJP) | CA Sri Lanka (Capstone Pillar)</b>
+  <b>Aspiring Data Analyst | B.Sc. in Business Information Systems (USJP) | CA Sri Lanka (Business Level)</b>
 </p>
 
 <div align="center">
